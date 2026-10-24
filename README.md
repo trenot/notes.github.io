@@ -1,2 +1,2 @@
 # notes.github.io
-site core
+this is jodie's site
